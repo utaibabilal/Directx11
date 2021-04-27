@@ -1,5 +1,5 @@
-﻿Build started 4/26/2021 5:02:52 AM.
-     1>Project "D:\DirectX 11\DirectX\DirectX\DirectX.vcxproj" on node 2 (build target(s)).
+﻿Build started 4/28/2021 1:52:28 AM.
+     1>Project "D:\Bilal Git\Directx11\DirectX\DirectX.vcxproj" on node 2 (build target(s)).
      1>InitializeBuildStatus:
          Creating "Debug\DirectX.unsuccessfulbuild" because "AlwaysCreate" was specified.
        ClCompile:
@@ -8,19 +8,19 @@
        ManifestResourceCompile:
          All outputs are up-to-date.
        Link:
-         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\DirectX 11\DirectX\Debug\DirectX.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\DirectX.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\DirectX 11\DirectX\Debug\DirectX.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\DirectX 11\DirectX\Debug\DirectX.lib" /MACHINE:X86 Debug\DirectX.exe.embed.manifest.res
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Bilal Git\Directx11\Debug\DirectX.exe" /INCREMENTAL /NOLOGO d3d11.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\DirectX.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"D:\Bilal Git\Directx11\Debug\DirectX.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Bilal Git\Directx11\Debug\DirectX.lib" /MACHINE:X86 Debug\DirectX.exe.embed.manifest.res
          Debug\main.obj
        Manifest:
          C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\DirectX.exe.embed.manifest" /manifest Debug\DirectX.exe.intermediate.manifest
          All outputs are up-to-date.
        LinkEmbedManifest:
          All outputs are up-to-date.
-         DirectX.vcxproj -> D:\DirectX 11\DirectX\Debug\DirectX.exe
+         DirectX.vcxproj -> D:\Bilal Git\Directx11\Debug\DirectX.exe
        FinalizeBuildStatus:
          Deleting file "Debug\DirectX.unsuccessfulbuild".
          Touching "Debug\DirectX.lastbuildstate".
-     1>Done Building Project "D:\DirectX 11\DirectX\DirectX\DirectX.vcxproj" (build target(s)).
+     1>Done Building Project "D:\Bilal Git\Directx11\DirectX\DirectX.vcxproj" (build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:07.09
+Time Elapsed 00:00:05.99
